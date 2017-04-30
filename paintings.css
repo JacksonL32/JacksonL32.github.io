@@ -1,0 +1,40 @@
+html{
+  background-color: blue;
+}
+
+
+
+nav {
+  display: inline;
+color: red;
+text-decoration-color: red;
+}
+
+p {
+  background-color:blue;
+  padding: 15px;
+}
+
+li {display: inline;
+  width: 100%;
+  text-align: center;
+  padding: 15px;
+
+}
+
+body {
+  text-align: center;
+  width: 100%
+}
+img {
+  width: 100%;
+  padding: 15px;
+}
+
+.bubble {
+  color: red
+}
+
+.boat {
+  color: red;
+}
